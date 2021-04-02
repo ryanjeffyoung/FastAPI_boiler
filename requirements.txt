@@ -8,17 +8,10 @@ certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
 colorama==0.4.4
-DateTimeRange==1.0.0
 decorator==4.4.2
 dnspython==2.1.0
 email-validator==1.1.2
 fastapi==0.63.0
-google-api-core==1.26.3
-google-api-python-client==2.0.2
-google-auth==1.28.0
-google-auth-httplib2==0.1.0
-google-auth-oauthlib==0.4.4
-googleapis-common-protos==1.53.0
 graphene==2.1.8
 graphql-core==2.3.2
 graphql-relay==2.0.1
