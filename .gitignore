@@ -1,0 +1,7 @@
+/venv
+/__pycache__
+credentials.json
+service.json
+service-old.json
+/app/api/__pycache__
+app/__pycache__
